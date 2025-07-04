@@ -1,4 +1,4 @@
-package tnsif.day3;
+package tnsif.scanner.day3;
 
 public class person {
 	private String name;
@@ -49,5 +49,6 @@ public class person {
 	}
 	
 	
-	
+
+
 }
