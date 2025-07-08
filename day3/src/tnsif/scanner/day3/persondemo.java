@@ -1,6 +1,6 @@
 package tnsif.scanner.day3;
 import java.util.Scanner;
-public class PersonDemo {
+public class personDemo {
 	public static void main(String[] args) {
 		
 				try (Scanner ob = new Scanner(System.in)) {
@@ -22,7 +22,7 @@ public class PersonDemo {
 					person.setAge(age);
 					person.setGender(gender);
 					person.setIncome(income);
-					person.setMobileNumber(mobileNumber);
+					
 					
 					
 					//by using getter method i m reading the data 
@@ -30,7 +30,7 @@ public class PersonDemo {
 					System.out.println(person.getAge());
 					System.out.println(person.getGender());
 					System.out.println(person.getIncome());
-					System.out.println(person.getMobileNumber());
+					
 					System.out.println(person.getTax());
 					
 					

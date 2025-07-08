@@ -1,6 +1,6 @@
 package tnsif.scanner.day3;
 
-public class Taxcalculator {
+
 	public class TaxCalculation {
 		public void calculateTax(person person )
 		{
@@ -31,4 +31,4 @@ public class Taxcalculator {
 		}
 		}
 	
-}
+
