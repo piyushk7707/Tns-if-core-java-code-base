@@ -1,7 +1,7 @@
 package tnsif.scanner.day3;
 
 
-	public class TaxCalculation {
+	public class Taxcalculator {
 		public void calculateTax(person person )
 		{
 			                             // FEMALE Female female FeMale

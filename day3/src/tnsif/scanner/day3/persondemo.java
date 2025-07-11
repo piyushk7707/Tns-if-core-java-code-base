@@ -1,6 +1,6 @@
 package tnsif.scanner.day3;
 import java.util.Scanner;
-public class personDemo {
+public class persondemo {
 	public static void main(String[] args) {
 		
 				try (Scanner ob = new Scanner(System.in)) {
@@ -38,7 +38,7 @@ public class personDemo {
 					System.out.println(person);
 					
 					System.out.println("After creating tax object ");
-					TaxCalculation calc=new TaxCalculation();
+					Taxcalculator calc=new Taxcalculator();
 					calc.calculateTax(person);
 					System.out.println("After Calculation of tax :");
 					
